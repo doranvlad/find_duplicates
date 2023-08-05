@@ -13,4 +13,3 @@ if __name__ == "__main__":
 
     submit_button = driver.find_element(By.XPATH, "//input[@value='Найти']")
     submit_button.click()
-    #so
